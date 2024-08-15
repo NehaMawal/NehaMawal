@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/6120214/pexels-photo-6120214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 
- 🌱 I’m currently learning *Python data analysis libraries*
+ 🌱 Data Analyst and Data Scientist with a passion for turning data into actionable insights *
 
  💬 Ask me about **SQL,POWER BI,Python**
 
